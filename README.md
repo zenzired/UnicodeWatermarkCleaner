@@ -75,5 +75,5 @@ This project is licensed under the MIT License.
 
 ## 🧠 Credits
 
-Created by [Your Name]  
+Created by Luzon.
 Inspired by privacy-first tooling and secure document practices.
